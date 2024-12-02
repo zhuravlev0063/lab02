@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 51416fab665121e82da2f778ae7754b601e6123e
 #include <iostream>
 // Удаляем строку: using namespace std;
 
@@ -12,4 +16,8 @@ int main() {
     std::cout << "Hello world from " << name << std::endl; // Используем endl для перехода на новую строку
 
     return 0; // Завершаем программу
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 51416fab665121e82da2f778ae7754b601e6123e
